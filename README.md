@@ -60,7 +60,7 @@ Built by <a href=https://github.com/gianlazaro>Gian Lazaro</a>
 ### Ratings & Reviews
 <img src="https://imgur.com/i0XpPIF.gif" />
 
-Built by <a href=https://github.com/CamdenSmithh>Camden Smith</a>
+Built by <a href=https://github.com/dondo5252>David Arredondo</a>
   
 <b>Features</b>
 - Reviews load two at a time
@@ -106,10 +106,10 @@ This project follows the [Airbnb JavaScript Style Guide](https://github.com/airb
 [![Linkedin: LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/caleb-kim0510/)](https://www.linkedin.com/in/gianlazaro/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/gianlazaro)](https://github.com/gianlazaro) 
 
-**Camden Smith (Ratings & Reviews)**
+**David Arredondo (Ratings & Reviews)**
 
-[![Linkedin: LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/caleb-kim0510/)](https://www.linkedin.com/in/camdensmithh/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/cariboukim)](https://github.com/CamdenSmithh) 
+[![Linkedin: LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/caleb-kim0510/)](https://www.linkedin.com/in/davidcarredondo/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/cariboukim)](https://github.com/dondo5252) 
 
 ## Instructions for how to deploy the webpage:
 
