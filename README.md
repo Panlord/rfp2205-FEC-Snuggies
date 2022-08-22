@@ -50,7 +50,7 @@ Add a Question Modal     |  Navigating the Q&A List
 :-------------------------:|:-------------------------:
 ![Add a Question Modal](https://i.imgur.com/HDuJyeM.gif)  |  ![Navigating the Q&A List](https://i.imgur.com/jj7BpZ2.gif)
 
-Built by <a href=https://github.com/gianlazaro>Gian Lazaro</a>
+Built by <a href=https://github.com/justjjasper>Jasper Bucad</a>
 
 <b>Features</b>
 - The questions and answers load two at a time, every time the respective buttons are clicked on
@@ -101,10 +101,10 @@ This project follows the [Airbnb JavaScript Style Guide](https://github.com/airb
 [![Linkedin: LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/caleb-kim0510/)](https://www.linkedin.com/in/chinclayton/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/cariboukim)](https://github.com/mrdooby) 
 
-**Gian Lazaro (Questions & Answers)**
+**Jasper Bucad (Questions & Answers)**
 
-[![Linkedin: LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/caleb-kim0510/)](https://www.linkedin.com/in/gianlazaro/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/gianlazaro)](https://github.com/gianlazaro) 
+[![Linkedin: LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/caleb-kim0510/)](https://www.linkedin.com/in/jasper-bucad/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/gianlazaro)](https://github.com/justjjasper) 
 
 **David Arredondo (Ratings & Reviews)**
 
