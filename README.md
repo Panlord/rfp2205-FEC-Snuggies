@@ -37,7 +37,7 @@ Product Carousel             |  Comparison Modal
 :-------------------------:|:-------------------------:
 ![Product Carousel](https://imgur.com/21eqoHv.gif)  |  ![Comparison Modal](https://imgur.com/2TfXtaj.gif)
 
-Built by <a href=https://github.com/carsonliu1>Carson Liu</a>
+Built by <a href=https://github.com/mrdooby>Clayton Chin</a>
 
 <b>Features</b>
 
@@ -96,10 +96,10 @@ This project follows the [Airbnb JavaScript Style Guide](https://github.com/airb
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/cariboukim)](https://github.com/kbinhnguyen) 
 
-**Carson Liu (Related Products)**
+**Clayton Chin (Related Products)**
 
-[![Linkedin: LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/caleb-kim0510/)](https://www.linkedin.com/in/jianquan-carson-liu/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/cariboukim)](https://github.com/carsonliu1) 
+[![Linkedin: LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/caleb-kim0510/)](https://www.linkedin.com/in/chinclayton/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/cariboukim)](https://github.com/mrdooby) 
 
 **Gian Lazaro (Questions & Answers)**
 
@@ -135,4 +135,4 @@ Once that finishes you can run ```npm run server-dev``` which should start up th
   
 Navigate in your browser to localhost:(PORT_THAT_YOU_CHOSE_HERE) and you should see the webpage! 
   
-© Soulful 2022  
+© Strings 2022  
