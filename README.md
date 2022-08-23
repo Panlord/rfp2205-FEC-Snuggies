@@ -21,16 +21,14 @@ Gallery/Styles
 :-------------------------:
 ![Gallery/Styles ](https://i.imgur.com/aOPcmrR.gif)
 
-
-Built by <a href=https://github.com/kbinhnguyen>Binh Nguyen</a>
+Built by <a href=https://github.com/Panlord>Aaron Pan</a>
 
 <b>Features</b>
-- Image gallery carousel with the ability to zoom and expand the photo
-- Styles Selector dynamically lists out styles based on the item
-- Size Selector dynamically fills out based on product's stock availability
-- Add to cart feature
-- Share to social media buttons
-- Read all reviews link that will scroll to the Ratings & Reviews section upon clicking
+- Image gallery carousel with 2.5x zoom functionality
+- Style selector that dynamically renders based on each product's available styles
+- Size Selector that changes based on selected product's availability
+- Add to cart functionality
+- Social media sharing buttons
 
 ### Related Items & Your Outfit
 Product Carousel             |  Comparison Modal
@@ -91,10 +89,12 @@ This project follows the [Airbnb JavaScript Style Guide](https://github.com/airb
 
 **Deployment**
 - [AWS](https://aws.amazon.com/) (EC2 instance)
-## Contributors
-**Binh Nguyen (Product Overview)**
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/cariboukim)](https://github.com/kbinhnguyen) 
+## Contributors
+**Aaron Pan (Product Overview)**
+
+[![Linkedin: LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaronpan6/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Panlord) 
 
 **Clayton Chin (Related Products)**
 
@@ -125,7 +125,7 @@ Generate your own github api key with these settings:
 Create a .env file and add the following keys and values. Your .env file should end up looking something like this:  
   
 PORT="3000"  
-GITKEY="GITHUB_API_KEY_HERE"  
+GITHUB_TOKEN="GITHUB_API_KEY_HERE"  
 
 -<b>NOTE don’t include the apostrophes</b>
 
